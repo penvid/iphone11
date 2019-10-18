@@ -5,7 +5,7 @@
 
   <groupId>apple.iphone</groupId>
   <artifactId>iphone11</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>iphone11</name>
   <!-- FIXME change it to the project's website -->
@@ -24,7 +24,7 @@
 
   <scm>
      <connection>scm:git:https://github.com/penvid/iphone11.git</connection>
-    <tag>iphone11-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>

@@ -5,7 +5,7 @@
 
   <groupId>apple.iphone</groupId>
   <artifactId>iphone11</artifactId>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
 
   <name>iphone11</name>
   <!-- FIXME change it to the project's website -->
